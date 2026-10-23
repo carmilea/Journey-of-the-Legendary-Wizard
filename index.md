@@ -21,4 +21,14 @@ title: "Journey of the Legendary Wizard"
 <li><a href="{{ '/chapters/ch16.html' | relative_url }}">Chapter 16: Upheaval</a></li>
 <li><a href="{{ '/chapters/ch17.html' | relative_url }}">Chapter 17: The Blood Seal of Thorns</a></li>
 <li><a href="{{ '/chapters/ch18.html' | relative_url }}">Chapter 18: Boarding the Ship</a></li>
+<li><a href="{{ '/chapters/ch19.html' | relative_url }}">Chapter 19: The Game</a></li>
+<li><a href="{{ '/chapters/ch20.html' | relative_url }}">Chapter 20: The Death of Carey</a></li>
+<li><a href="{{ '/chapters/ch21.html' | relative_url }}">Chapter 21: Alliance and Expulsion</a></li>
+<li><a href="{{ '/chapters/ch22.html' | relative_url }}">Chapter 22: Ugly Sights</a></li>
+<li><a href="{{ '/chapters/ch23.html' | relative_url }}">Chapter 23: The Night of Blood</a></li>
+<li><a href="{{ '/chapters/ch24.html' | relative_url }}">Chapter 24: The Dark Forest</a></li>
+<li><a href="{{ '/chapters/ch25.html' | relative_url }}">Chapter 25: Choosing a Mentor</a></li>
+<li><a href="{{ '/chapters/ch26.html' | relative_url }}">Chapter 26: Adrian</a></li>
+<li><a href="{{ '/chapters/ch27.html' | relative_url }}">Chapter 27: First-Class Apprentice</a></li>
+<li><a href="{{ '/chapters/ch28.html' | relative_url }}">Chapter 28: Friends</a></li>
 </ol>
