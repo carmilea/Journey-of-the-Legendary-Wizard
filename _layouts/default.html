@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+<link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+</head>
+<body>
+{% capture menu %}<nav class="menu">
+  {% if page.prev %}<a href="{{ page.prev | relative_url }}" rel="prev">&lsaquo; Back</a>{% else %}<span class="off">&lsaquo; Back</span>{% endif %}
+  <a href="{{ '/' | relative_url }}">Chapters</a>
+  {% if page.next %}<a href="{{ page.next | relative_url }}" rel="next">Next &rsaquo;</a>{% else %}<span class="off">Next &rsaquo;</span>{% endif %}
+</nav>{% endcapture %}
+<main>
+{% if page.chapter %}{{ menu }}{% endif %}
+<h1>{{ page.title | default: site.title }}</h1>
+{{ content }}
+{% if page.chapter %}{{ menu }}{% endif %}
+</main>
+<script>
+document.addEventListener("keydown", e => {
+  if (e.altKey || e.ctrlKey || e.metaKey) return;
+  const a = document.querySelector(e.key === "ArrowLeft" ? "a[rel=prev]" : e.key === "ArrowRight" ? "a[rel=next]" : null);
+  if (a) location.href = a.href;
+});
+</script>
+</body>
+</html>
