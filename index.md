@@ -41,4 +41,14 @@ title: "Journey of the Legendary Wizard"
 <li><a href="{{ '/chapters/ch36.html' | relative_url }}">Chapter 36: Conclusions</a></li>
 <li><a href="{{ '/chapters/ch37.html' | relative_url }}">Chapter 37: The Mission</a></li>
 <li><a href="{{ '/chapters/ch38.html' | relative_url }}">Chapter 38: Arrival</a></li>
+<li><a href="{{ '/chapters/ch39.html' | relative_url }}">Chapter 39: The Kill</a></li>
+<li><a href="{{ '/chapters/ch40.html' | relative_url }}">Chapter 40: Striking Back</a></li>
+<li><a href="{{ '/chapters/ch41.html' | relative_url }}">Chapter 41: Afterthoughts</a></li>
+<li><a href="{{ '/chapters/ch42.html' | relative_url }}">Chapter 42: Plans</a></li>
+<li><a href="{{ '/chapters/ch43.html' | relative_url }}">Chapter 43: Arrangements</a></li>
+<li><a href="{{ '/chapters/ch44.html' | relative_url }}">Chapter 44: Conditions</a></li>
+<li><a href="{{ '/chapters/ch45.html' | relative_url }}">Chapter 45: Departure</a></li>
+<li><a href="{{ '/chapters/ch46.html' | relative_url }}">Chapter 46: Dark Wind Ring</a></li>
+<li><a href="{{ '/chapters/ch47.html' | relative_url }}">Chapter 47: Hale City</a></li>
+<li><a href="{{ '/chapters/ch48.html' | relative_url }}">Chapter 48: The Sale</a></li>
 </ol>
