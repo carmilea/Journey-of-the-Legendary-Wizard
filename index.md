@@ -31,4 +31,14 @@ title: "Journey of the Legendary Wizard"
 <li><a href="{{ '/chapters/ch26.html' | relative_url }}">Chapter 26: Adrian</a></li>
 <li><a href="{{ '/chapters/ch27.html' | relative_url }}">Chapter 27: First-Class Apprentice</a></li>
 <li><a href="{{ '/chapters/ch28.html' | relative_url }}">Chapter 28: Friends</a></li>
+<li><a href="{{ '/chapters/ch29.html' | relative_url }}">Chapter 29: A First Attempt at Brewing</a></li>
+<li><a href="{{ '/chapters/ch30.html' | relative_url }}">Chapter 30: The Gathering</a></li>
+<li><a href="{{ '/chapters/ch31.html' | relative_url }}">Chapter 31: Snake Phoenix Orchid</a></li>
+<li><a href="{{ '/chapters/ch32.html' | relative_url }}">Chapter 32: A Successful Brew</a></li>
+<li><a href="{{ '/chapters/ch33.html' | relative_url }}">Chapter 33: Considerations</a></li>
+<li><a href="{{ '/chapters/ch34.html' | relative_url }}">Chapter 34: Second-Class Apprentice</a></li>
+<li><a href="{{ '/chapters/ch35.html' | relative_url }}">Chapter 35: Spells and Testing</a></li>
+<li><a href="{{ '/chapters/ch36.html' | relative_url }}">Chapter 36: Conclusions</a></li>
+<li><a href="{{ '/chapters/ch37.html' | relative_url }}">Chapter 37: The Mission</a></li>
+<li><a href="{{ '/chapters/ch38.html' | relative_url }}">Chapter 38: Arrival</a></li>
 </ol>
