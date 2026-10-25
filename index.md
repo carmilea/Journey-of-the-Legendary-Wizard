@@ -51,4 +51,14 @@ title: "Journey of the Legendary Wizard"
 <li><a href="{{ '/chapters/ch46.html' | relative_url }}">Chapter 46: Dark Wind Ring</a></li>
 <li><a href="{{ '/chapters/ch47.html' | relative_url }}">Chapter 47: Hale City</a></li>
 <li><a href="{{ '/chapters/ch48.html' | relative_url }}">Chapter 48: The Sale</a></li>
+<li><a href="{{ '/chapters/ch49.html' | relative_url }}">Chapter 49: Servants</a></li>
+<li><a href="{{ '/chapters/ch50.html' | relative_url }}">Chapter 50: Settled</a></li>
+<li><a href="{{ '/chapters/ch51.html' | relative_url }}">Chapter 51: Arrival</a></li>
+<li><a href="{{ '/chapters/ch52.html' | relative_url }}">Chapter 52: The Banquet</a></li>
+<li><a href="{{ '/chapters/ch53.html' | relative_url }}">Chapter 53: The Stronghold</a></li>
+<li><a href="{{ '/chapters/ch54.html' | relative_url }}">Chapter 54: The One Behind It All</a></li>
+<li><a href="{{ '/chapters/ch55.html' | relative_url }}">Chapter 55: The Sodara Man-Eating Tree</a></li>
+<li><a href="{{ '/chapters/ch56.html' | relative_url }}">Chapter 56: The Gathering</a></li>
+<li><a href="{{ '/chapters/ch57.html' | relative_url }}">Chapter 57: The Grey Dove Settlement</a></li>
+<li><a href="{{ '/chapters/ch58.html' | relative_url }}">Chapter 58: Ambush</a></li>
 </ol>
