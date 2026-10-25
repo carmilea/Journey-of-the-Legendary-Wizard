@@ -61,4 +61,14 @@ title: "Journey of the Legendary Wizard"
 <li><a href="{{ '/chapters/ch56.html' | relative_url }}">Chapter 56: The Gathering</a></li>
 <li><a href="{{ '/chapters/ch57.html' | relative_url }}">Chapter 57: The Grey Dove Settlement</a></li>
 <li><a href="{{ '/chapters/ch58.html' | relative_url }}">Chapter 58: Ambush</a></li>
+<li><a href="{{ '/chapters/ch59.html' | relative_url }}">Chapter 59: Red Rock Town</a></li>
+<li><a href="{{ '/chapters/ch60.html' | relative_url }}">Chapter 60: Night Scouting</a></li>
+<li><a href="{{ '/chapters/ch61.html' | relative_url }}">Chapter 61: Discovery</a></li>
+<li><a href="{{ '/chapters/ch62.html' | relative_url }}">Chapter 62: Loose Ends</a></li>
+<li><a href="{{ '/chapters/ch63.html' | relative_url }}">Chapter 63: Third-Class Apprentice</a></li>
+<li><a href="{{ '/chapters/ch64.html' | relative_url }}">Chapter 64: The Summons</a></li>
+<li><a href="{{ '/chapters/ch65.html' | relative_url }}">Chapter 65: Bina</a></li>
+<li><a href="{{ '/chapters/ch66.html' | relative_url }}">Chapter 66: Bina (Part 2)</a></li>
+<li><a href="{{ '/chapters/ch67.html' | relative_url }}">Chapter 67: The Hidden Truth</a></li>
+<li><a href="{{ '/chapters/ch68.html' | relative_url }}">Chapter 68: The Summons</a></li>
 </ol>
