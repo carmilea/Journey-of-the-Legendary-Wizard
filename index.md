@@ -71,4 +71,14 @@ title: "Journey of the Legendary Wizard"
 <li><a href="{{ '/chapters/ch66.html' | relative_url }}">Chapter 66: Bina (Part 2)</a></li>
 <li><a href="{{ '/chapters/ch67.html' | relative_url }}">Chapter 67: The Hidden Truth</a></li>
 <li><a href="{{ '/chapters/ch68.html' | relative_url }}">Chapter 68: The Summons</a></li>
+<li><a href="{{ '/chapters/ch69.html' | relative_url }}">Chapter 69: The Path of the Ancient Wizards</a></li>
+<li><a href="{{ '/chapters/ch70.html' | relative_url }}">Chapter 70: Inheritance</a></li>
+<li><a href="{{ '/chapters/ch71.html' | relative_url }}">Chapter 71: Conditions</a></li>
+<li><a href="{{ '/chapters/ch72.html' | relative_url }}">Chapter 72: Leaving Wintercold</a></li>
+<li><a href="{{ '/chapters/ch73.html' | relative_url }}">Chapter 73: Return</a></li>
+<li><a href="{{ '/chapters/ch74.html' | relative_url }}">Chapter 74: The Situation</a></li>
+<li><a href="{{ '/chapters/ch75.html' | relative_url }}">Chapter 75: Old Acquaintances</a></li>
+<li><a href="{{ '/chapters/ch76.html' | relative_url }}">Chapter 76: Preparations</a></li>
+<li><a href="{{ '/chapters/ch77.html' | relative_url }}">Chapter 77: The Trial</a></li>
+<li><a href="{{ '/chapters/ch78.html' | relative_url }}">Chapter 78: The Trial (Part Two): Jack</a></li>
 </ol>
