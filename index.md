@@ -80,5 +80,15 @@ title: "Journey of the Legendary Wizard"
 <li><a href="{{ '/chapters/ch75.html' | relative_url }}">Chapter 75: Old Acquaintances</a></li>
 <li><a href="{{ '/chapters/ch76.html' | relative_url }}">Chapter 76: Preparations</a></li>
 <li><a href="{{ '/chapters/ch77.html' | relative_url }}">Chapter 77: The Trial</a></li>
-<li><a href="{{ '/chapters/ch78.html' | relative_url }}">Chapter 78: The Trial (Part Two): Jack</a></li>
+<li><a href="{{ '/chapters/ch78.html' | relative_url }}">Chapter 78: The Trial (Part 2): Jack</a></li>
+<li><a href="{{ '/chapters/ch79.html' | relative_url }}">Chapter 79: The Trial (Part 3): Jack the Ripper, from the Dark Forest</a></li>
+<li><a href="{{ '/chapters/ch80.html' | relative_url }}">Chapter 80: The Trial (Part 4): Heart-Eater</a></li>
+<li><a href="{{ '/chapters/ch81.html' | relative_url }}">Chapter 81: The Trial (Part 5): I Have Returned</a></li>
+<li><a href="{{ '/chapters/ch82.html' | relative_url }}">Chapter 82: The Trial (Part 6)</a></li>
+<li><a href="{{ '/chapters/ch83.html' | relative_url }}">Chapter 83: The Trial (Part 7): Fallen Blossoms</a></li>
+<li><a href="{{ '/chapters/ch84.html' | relative_url }}">Chapter 84: The Trial (Part 8): A Dozen Points and One for Nothing</a></li>
+<li><a href="{{ '/chapters/ch85.html' | relative_url }}">Chapter 85: The Trial (Part 9): The Grafted Arm</a></li>
+<li><a href="{{ '/chapters/ch86.html' | relative_url }}">Chapter 86: The Trial (Part 10): Past the Ceiling</a></li>
+<li><a href="{{ '/chapters/ch87.html' | relative_url }}">Chapter 87: The Trial (Part 11)</a></li>
+<li><a href="{{ '/chapters/ch88.html' | relative_url }}">Chapter 88: The Trial (Part 12): Dogs Love Bones</a></li>
 </ol>
