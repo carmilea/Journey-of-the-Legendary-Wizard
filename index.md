@@ -91,4 +91,14 @@ title: "Journey of the Legendary Wizard"
 <li><a href="{{ '/chapters/ch86.html' | relative_url }}">Chapter 86: The Trial (Part 10): Past the Ceiling</a></li>
 <li><a href="{{ '/chapters/ch87.html' | relative_url }}">Chapter 87: The Trial (Part 11)</a></li>
 <li><a href="{{ '/chapters/ch88.html' | relative_url }}">Chapter 88: The Trial (Part 12): Dogs Love Bones</a></li>
+<li><a href="{{ '/chapters/ch89.html' | relative_url }}">Chapter 89: The Trial (Part 13): What the Stone Is Worth</a></li>
+<li><a href="{{ '/chapters/ch90.html' | relative_url }}">Chapter 90: The Trial (Part 14): The Price of a Walk Home</a></li>
+<li><a href="{{ '/chapters/ch91.html' | relative_url }}">Chapter 91: The Trial (Part 15): This Is Me</a></li>
+<li><a href="{{ '/chapters/ch92.html' | relative_url }}">Chapter 92: The Trial (Part 16): Through the Gate</a></li>
+<li><a href="{{ '/chapters/ch93.html' | relative_url }}">Chapter 93: The Trial (End): Homecoming</a></li>
+<li><a href="{{ '/chapters/ch94.html' | relative_url }}">Chapter 94: Rewards</a></li>
+<li><a href="{{ '/chapters/ch95.html' | relative_url }}">Chapter 95: Rewards (Part 2): The Vault Behind the Goat</a></li>
+<li><a href="{{ '/chapters/ch96.html' | relative_url }}">Chapter 96: Rewards (Part 3): Paths Part</a></li>
+<li><a href="{{ '/chapters/ch97.html' | relative_url }}">Chapter 97: The Assignment</a></li>
+<li><a href="{{ '/chapters/ch98.html' | relative_url }}">Chapter 98: Travelling Companions</a></li>
 </ol>
