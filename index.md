@@ -101,4 +101,14 @@ title: "Journey of the Legendary Wizard"
 <li><a href="{{ '/chapters/ch96.html' | relative_url }}">Chapter 96: Rewards (Part 3): Paths Part</a></li>
 <li><a href="{{ '/chapters/ch97.html' | relative_url }}">Chapter 97: The Assignment</a></li>
 <li><a href="{{ '/chapters/ch98.html' | relative_url }}">Chapter 98: Travelling Companions</a></li>
+<li><a href="{{ '/chapters/ch99.html' | relative_url }}">Chapter 99: Travelling Companions (Part 2)</a></li>
+<li><a href="{{ '/chapters/ch100.html' | relative_url }}">Chapter 100: The Garrison</a></li>
+<li><a href="{{ '/chapters/ch101.html' | relative_url }}">Chapter 101: The Inheritance</a></li>
+<li><a href="{{ '/chapters/ch102.html' | relative_url }}">Chapter 102: The Inheritance (Part 2)</a></li>
+<li><a href="{{ '/chapters/ch103.html' | relative_url }}">Chapter 103: The Inheritance (Part 3)</a></li>
+<li><a href="{{ '/chapters/ch104.html' | relative_url }}">Chapter 104: The Demon-Face Flower</a></li>
+<li><a href="{{ '/chapters/ch105.html' | relative_url }}">Chapter 105: Annihilation</a></li>
+<li><a href="{{ '/chapters/ch106.html' | relative_url }}">Chapter 106: Advancement</a></li>
+<li><a href="{{ '/chapters/ch107.html' | relative_url }}">Chapter 107: Advancement (Part 2)</a></li>
+<li><a href="{{ '/chapters/ch109.html' | relative_url }}">Chapter 109: The Kill</a></li>
 </ol>
