@@ -110,5 +110,15 @@ title: "Journey of the Legendary Wizard"
 <li><a href="{{ '/chapters/ch105.html' | relative_url }}">Chapter 105: Annihilation</a></li>
 <li><a href="{{ '/chapters/ch106.html' | relative_url }}">Chapter 106: Advancement</a></li>
 <li><a href="{{ '/chapters/ch107.html' | relative_url }}">Chapter 107: Advancement (Part 2)</a></li>
-<li><a href="{{ '/chapters/ch109.html' | relative_url }}">Chapter 109: The Kill</a></li>
+<li><a href="{{ '/chapters/ch109.html' | relative_url }}">Chapter 109: The Kill (Part 1)</a></li>
+<li><a href="{{ '/chapters/ch110.html' | relative_url }}">Chapter 110: The Kill (Part 2)</a></li>
+<li><a href="{{ '/chapters/ch111.html' | relative_url }}">Chapter 111: The Kill (Part 3)</a></li>
+<li><a href="{{ '/chapters/ch112.html' | relative_url }}">Chapter 112: Alice (Part 1)</a></li>
+<li><a href="{{ '/chapters/ch113.html' | relative_url }}">Chapter 113: Alice (Part 2)</a></li>
+<li><a href="{{ '/chapters/ch114.html' | relative_url }}">Chapter 114: Alice (Part 3)</a></li>
+<li><a href="{{ '/chapters/ch115.html' | relative_url }}">Chapter 115: Alice (Part 4)</a></li>
+<li><a href="{{ '/chapters/ch116.html' | relative_url }}">Chapter 116: Emilia</a></li>
+<li><a href="{{ '/chapters/ch117.html' | relative_url }}">Chapter 117: Thirty-Four Connpa Street</a></li>
+<li><a href="{{ '/chapters/ch118.html' | relative_url }}">Chapter 118: Maffie</a></li>
+<li><a href="{{ '/chapters/ch119.html' | relative_url }}">Chapter 119: Turning the Tables</a></li>
 </ol>
