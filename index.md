@@ -121,4 +121,9 @@ title: "Journey of the Legendary Wizard"
 <li><a href="{{ '/chapters/ch117.html' | relative_url }}">Chapter 117: Thirty-Four Connpa Street</a></li>
 <li><a href="{{ '/chapters/ch118.html' | relative_url }}">Chapter 118: Maffie</a></li>
 <li><a href="{{ '/chapters/ch119.html' | relative_url }}">Chapter 119: Turning the Tables</a></li>
+<li><a href="{{ '/chapters/ch120.html' | relative_url }}">Chapter 120: The Request</a></li>
+<li><a href="{{ '/chapters/ch121.html' | relative_url }}">Chapter 121: The Bloodcoat Assassins’ Guild</a></li>
+<li><a href="{{ '/chapters/ch122.html' | relative_url }}">Chapter 122: The Raid</a></li>
+<li><a href="{{ '/chapters/ch123.html' | relative_url }}">Chapter 123: Reversal</a></li>
+<li><a href="{{ '/chapters/ch124.html' | relative_url }}">Chapter 124: The Ranking Tournament</a></li>
 </ol>
