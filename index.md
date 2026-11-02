@@ -126,4 +126,9 @@ title: "Journey of the Legendary Wizard"
 <li><a href="{{ '/chapters/ch122.html' | relative_url }}">Chapter 122: The Raid</a></li>
 <li><a href="{{ '/chapters/ch123.html' | relative_url }}">Chapter 123: Reversal</a></li>
 <li><a href="{{ '/chapters/ch124.html' | relative_url }}">Chapter 124: The Ranking Tournament</a></li>
+<li><a href="{{ '/chapters/ch125.html' | relative_url }}">Chapter 125: The Examination</a></li>
+<li><a href="{{ '/chapters/ch126.html' | relative_url }}">Chapter 126: The Resource Point</a></li>
+<li><a href="{{ '/chapters/ch127.html' | relative_url }}">Chapter 127: The Eighth Potion Group</a></li>
+<li><a href="{{ '/chapters/ch128.html' | relative_url }}">Chapter 128: The Exchange</a></li>
+<li><a href="{{ '/chapters/ch129.html' | relative_url }}">Chapter 129: The Puppet</a></li>
 </ol>
