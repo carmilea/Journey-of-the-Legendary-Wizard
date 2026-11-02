@@ -131,4 +131,9 @@ title: "Journey of the Legendary Wizard"
 <li><a href="{{ '/chapters/ch127.html' | relative_url }}">Chapter 127: The Eighth Potion Group</a></li>
 <li><a href="{{ '/chapters/ch128.html' | relative_url }}">Chapter 128: The Exchange</a></li>
 <li><a href="{{ '/chapters/ch129.html' | relative_url }}">Chapter 129: The Puppet</a></li>
+<li><a href="{{ '/chapters/ch130.html' | relative_url }}">Chapter 130: The New Group Leader</a></li>
+<li><a href="{{ '/chapters/ch131.html' | relative_url }}">Chapter 131: Black Wizards</a></li>
+<li><a href="{{ '/chapters/ch132.html' | relative_url }}">Chapter 132: The Necro Flower</a></li>
+<li><a href="{{ '/chapters/ch133.html' | relative_url }}">Chapter 133: Frans</a></li>
+<li><a href="{{ '/chapters/ch134.html' | relative_url }}">Chapter 134: News</a></li>
 </ol>
