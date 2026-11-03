@@ -150,5 +150,10 @@ title: "Journey of the Legendary Wizard"
 <li><a href="{{ '/chapters/ch146.html' | relative_url }}">Chapter 146: The Underworld</a></li>
 <li><a href="{{ '/chapters/ch147.html' | relative_url }}">Chapter 147: Dark Elves and Darkness</a></li>
 <li><a href="{{ '/chapters/ch148.html' | relative_url }}">Chapter 148: Dark Wind Wolves</a></li>
-<li><a href="{{ '/chapters/ch149.html' | relative_url }}">Chapter 149: The Dagger Revealed</a></li>
+<li><a href="{{ '/chapters/ch149.html' | relative_url }}">Chapter 149: The Dagger Revealed (Part 1)</a></li>
+<li><a href="{{ '/chapters/ch150.html' | relative_url }}">Chapter 150: The Dagger Revealed (Part 2)</a></li>
+<li><a href="{{ '/chapters/ch151.html' | relative_url }}">Chapter 151: The Void Mirage (Part 1)</a></li>
+<li><a href="{{ '/chapters/ch152.html' | relative_url }}">Chapter 152: The Void Mirage (Part 2)</a></li>
+<li><a href="{{ '/chapters/ch153.html' | relative_url }}">Chapter 153: Kin and Truth</a></li>
+<li><a href="{{ '/chapters/ch154.html' | relative_url }}">Chapter 154: Advancement</a></li>
 </ol>
