@@ -141,4 +141,9 @@ title: "Journey of the Legendary Wizard"
 <li><a href="{{ '/chapters/ch137.html' | relative_url }}">Chapter 137: Edward</a></li>
 <li><a href="{{ '/chapters/ch138.html' | relative_url }}">Chapter 138: Quotas</a></li>
 <li><a href="{{ '/chapters/ch139.html' | relative_url }}">Chapter 139: Appetite</a></li>
+<li><a href="{{ '/chapters/ch140.html' | relative_url }}">Chapter 140: Conta Manor</a></li>
+<li><a href="{{ '/chapters/ch141.html' | relative_url }}">Chapter 141: The Token</a></li>
+<li><a href="{{ '/chapters/ch142.html' | relative_url }}">Chapter 142: The Injury</a></li>
+<li><a href="{{ '/chapters/ch143.html' | relative_url }}">Chapter 143: The Spring of Life</a></li>
+<li><a href="{{ '/chapters/ch144.html' | relative_url }}">Chapter 144: The Invitation</a></li>
 </ol>
