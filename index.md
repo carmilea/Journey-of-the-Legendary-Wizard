@@ -136,4 +136,9 @@ title: "Journey of the Legendary Wizard"
 <li><a href="{{ '/chapters/ch132.html' | relative_url }}">Chapter 132: The Necro Flower</a></li>
 <li><a href="{{ '/chapters/ch133.html' | relative_url }}">Chapter 133: Frans</a></li>
 <li><a href="{{ '/chapters/ch134.html' | relative_url }}">Chapter 134: News</a></li>
+<li><a href="{{ '/chapters/ch135.html' | relative_url }}">Chapter 135: The Styx Pact</a></li>
+<li><a href="{{ '/chapters/ch136.html' | relative_url }}">Chapter 136: Phantom State</a></li>
+<li><a href="{{ '/chapters/ch137.html' | relative_url }}">Chapter 137: Edward</a></li>
+<li><a href="{{ '/chapters/ch138.html' | relative_url }}">Chapter 138: Quotas</a></li>
+<li><a href="{{ '/chapters/ch139.html' | relative_url }}">Chapter 139: Appetite</a></li>
 </ol>
