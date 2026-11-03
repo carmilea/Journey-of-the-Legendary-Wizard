@@ -146,4 +146,9 @@ title: "Journey of the Legendary Wizard"
 <li><a href="{{ '/chapters/ch142.html' | relative_url }}">Chapter 142: The Injury</a></li>
 <li><a href="{{ '/chapters/ch143.html' | relative_url }}">Chapter 143: The Spring of Life</a></li>
 <li><a href="{{ '/chapters/ch144.html' | relative_url }}">Chapter 144: The Invitation</a></li>
+<li><a href="{{ '/chapters/ch145.html' | relative_url }}">Chapter 145: Refining</a></li>
+<li><a href="{{ '/chapters/ch146.html' | relative_url }}">Chapter 146: The Underworld</a></li>
+<li><a href="{{ '/chapters/ch147.html' | relative_url }}">Chapter 147: Dark Elves and Darkness</a></li>
+<li><a href="{{ '/chapters/ch148.html' | relative_url }}">Chapter 148: Dark Wind Wolves</a></li>
+<li><a href="{{ '/chapters/ch149.html' | relative_url }}">Chapter 149: The Dagger Revealed</a></li>
 </ol>
