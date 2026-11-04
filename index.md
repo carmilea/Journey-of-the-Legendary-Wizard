@@ -161,4 +161,9 @@ title: "Journey of the Legendary Wizard"
 <li><a href="{{ '/chapters/ch157.html' | relative_url }}">Chapter 157: New Tidings</a></li>
 <li><a href="{{ '/chapters/ch158.html' | relative_url }}">Chapter 158: The Opening</a></li>
 <li><a href="{{ '/chapters/ch159.html' | relative_url }}">Chapter 159: Tonk</a></li>
+<li><a href="{{ '/chapters/ch160.html' | relative_url }}">Chapter 160: Familiar</a></li>
+<li><a href="{{ '/chapters/ch161.html' | relative_url }}">Chapter 161: Fors Charman</a></li>
+<li><a href="{{ '/chapters/ch162.html' | relative_url }}">Chapter 162: Bronze (Part 1)</a></li>
+<li><a href="{{ '/chapters/ch163.html' | relative_url }}">Chapter 163: Bronze (Part 2)</a></li>
+<li><a href="{{ '/chapters/ch164.html' | relative_url }}">Chapter 164: Exposed</a></li>
 </ol>
