@@ -156,4 +156,9 @@ title: "Journey of the Legendary Wizard"
 <li><a href="{{ '/chapters/ch152.html' | relative_url }}">Chapter 152: The Void Mirage (Part 2)</a></li>
 <li><a href="{{ '/chapters/ch153.html' | relative_url }}">Chapter 153: Kin and Truth</a></li>
 <li><a href="{{ '/chapters/ch154.html' | relative_url }}">Chapter 154: Advancement</a></li>
+<li><a href="{{ '/chapters/ch155.html' | relative_url }}">Chapter 155: Meeting Again</a></li>
+<li><a href="{{ '/chapters/ch156.html' | relative_url }}">Chapter 156: Sweetwater Town</a></li>
+<li><a href="{{ '/chapters/ch157.html' | relative_url }}">Chapter 157: New Tidings</a></li>
+<li><a href="{{ '/chapters/ch158.html' | relative_url }}">Chapter 158: The Opening</a></li>
+<li><a href="{{ '/chapters/ch159.html' | relative_url }}">Chapter 159: Tonk</a></li>
 </ol>
